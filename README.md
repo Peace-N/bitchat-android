@@ -1,6 +1,10 @@
 ![ChatGPT Image Jul 5, 2025 at 06_07_31 PM](https://github.com/user-attachments/assets/2660f828-49c7-444d-beca-d8b01854667a)
 # bitchat
 
+# bitchat android project
+
+This Project is a Folk of bitchat by Jack and am actively looking for contributors to build the android native version using Bluetooth LE : email hello@magara.co.zw and let's do it together.
+
 A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers - just pure encrypted communication.
 
 ## License
